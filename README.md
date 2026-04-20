@@ -26,7 +26,7 @@ It is a visually captivating web experience that tells the story of an artist na
 ## Installation
 1. **Clone the Repository:**
    ```sh
-    https://github.com/DevanshSrajput/Eternal-Whispers
+    git clone https://github.com/divyat2605.git
 2. **View the WebPage:**
    ```sh
    https://eternal-whispers.netlify.app/
